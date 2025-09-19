@@ -1,0 +1,21 @@
+{
+  "name": "youtubebackend",
+  "version": "1.0.0",
+  "description": "This is a backend project for youtube.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "backend",
+    "shaurya",
+    "youtubeBackend"
+  ],
+  "author": "Shaurya Kundan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
